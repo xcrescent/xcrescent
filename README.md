@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xcrescent" alt="xcrescent" /></a> </p>
 
-- 🌱 I’m currently learning **Application Development(Flutter) and Game Development(Unreal Engine)**
+- 🌱 I’m currently learning **Application Development (Flutter) and Machine Learning (Tensorflow)**
 
 - 📫 How to reach me **usjadon19@gmail.com**
 
