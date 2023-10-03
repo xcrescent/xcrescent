@@ -37,6 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xcrescent&" alt="xcrescent" /></p>
 
+[![@xcrescent's Holopin board](https://holopin.me/xcrescent)](https://holopin.io/@xcrescent)
 <!--
 **xcrescent/xcrescent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
